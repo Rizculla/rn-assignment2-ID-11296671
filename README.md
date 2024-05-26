@@ -11,7 +11,7 @@ In this project, I made the following modifications to the `App.js` file:
 - Made the name "Benson Otti" bold.
 
 ## Screenshot
-
+Screenshot 2024-05-26 194420.png
 
 
 ## Student ID
